@@ -1,4 +1,4 @@
-#Migrated to Rocketman Command Center
+# Migrated to Rocketman Command Center
 We have migrated this bash script to Rocketman Command Center - visit https://github.com/Rocketman-Tech/rcc/wiki/Upload-Jamf-Logs for more information.
 
 # Upload Jamf Pro Logs
